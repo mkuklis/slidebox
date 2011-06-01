@@ -1,5 +1,5 @@
-#About
-**togglebox** - Simple Zepto plugin which turns your checkboxes into iPhone like slideboxes
+##togglebox
+Simple Zepto plugin which turns your checkboxes into iPhone like slideboxes
 
 
 The usage example:
@@ -11,7 +11,7 @@ The usage example:
       speed: 0.2
     });
 
-Demo:
+##Demo
 
 [http://mkuklis.github.com/slidebox/demo/index.html](http://mkuklis.github.com/slidebox/demo/index.html)
 
