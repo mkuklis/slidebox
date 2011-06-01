@@ -12,6 +12,5 @@ The usage example:
     });
 
 ##Demo
-
 [http://mkuklis.github.com/slidebox/demo/index.html](http://mkuklis.github.com/slidebox/demo/index.html)
 
