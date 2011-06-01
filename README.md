@@ -1,10 +1,10 @@
-##togglebox
+##slidebox
 Simple Zepto plugin which turns your checkboxes into iPhone like slideboxes
 
 
 The usage example:
 
-    $('checkbox').togglebox({
+    $('checkbox').slidebox({
       change: function(el, onoff) {
         // change callback
       },
