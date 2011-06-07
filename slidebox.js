@@ -20,9 +20,9 @@
     settings = $.extend(settings, options);
     // toggle element
     var toggle = function (e) {
-      var label = $(e.srcElement).parent();
-      var checkbox = label.prev()
-      var checked = checkbox.attr('checked');
+      var label = $(this)
+        , checkbox = label.prev()
+        , checked = checkbox.attr('checked');
       
       label.anim({backgroundPosition:'100%'}, settings.speed)
         .toggleClass('onoff');
